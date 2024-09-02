@@ -1,0 +1,129 @@
+﻿@model IEnumerable<BlogPod.MVC.Entites.CityEntity>
+
+<style>
+    .tile {
+        display: inline-block;
+        width: 100%;
+        padding: 20px;
+        margin: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    }
+
+    .button_box {
+        margin-top: 5px;
+    }
+   
+    .modal-dialog {
+        max-width: 50% !important;
+    }
+
+    
+</style>
+
+<div class="modal fade" id="editModal" tabindex="-1" role="dialog" aria-labelledby="editModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="editModalLabel">Edit City</h5>
+                <a class="close" data-dismiss="modal" aria-label="Close" asp-action="Index">
+                    <span aria-hidden="true">&times;</span>
+                </a>
+            </div>
+            <div class="modal-body" id="editModalBody">
+                <!-- Zawartość formularza edycji zostanie wyświetlona tutaj -->
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="DetailsModal" tabindex="-1" role="dialog" aria-labelledby="DetailsModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="DetailsModalLabel">Details City</h5>
+                <a class="close" data-dismiss="modal" aria-label="Close" asp-action="Index">
+                    <span aria-hidden="true">&times;</span>
+                </a>
+            </div>
+            <div class="modal-body" id="DetailsModalBody">
+                <!-- Zawartość formularza edycji zostanie wyświetlona tutaj -->
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="DeleteModal" tabindex="-1" role="dialog" aria-labelledby="DeleteModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="DeleteModalLabel">Delete City</h5>
+                <a class="close" data-dismiss="modal" aria-label="Close" asp-action="Index">
+                    <span aria-hidden="true">&times;</span>
+                </a>
+            </div>
+            <div class="modal-body" id="DeleteModalBody">
+                <!-- Zawartość formularza edycji zostanie wyświetlona tutaj -->
+            </div>
+        </div>
+    </div>
+</div>
+
+<p>
+    <a asp-action="Create" type="button" class="btn btn-primary">Create new</a>
+</p>
+
+@foreach (var item in Model)
+{
+    <div class="tiles-container">
+        <div class="tile">
+            <h3>@Html.DisplayFor(modelItem => item.Title)</h3>
+            <p>@Html.DisplayFor(modelItem => item.Text)</p>
+            <p>@Html.DisplayFor(modelItem => item.City), @Html.DisplayFor(modelItem => item.Country)</p>
+            <img src="@item.getImg()" alt="Image" style="max-width: 100%; height: auto;">
+            <div class="button_box">
+                <a href="#" class="btn btn-secondary edit-btn" data-id="@item.Id">Edit</a> |
+                <a href="#" class="btn btn-primary det-btn" data-id="@item.Id">Details</a> |
+                <a href="#" class="btn btn-danger del-btn" data-id="@item.Id">Delete</a>
+            </div>
+        </div>
+    </div>
+}
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('.edit-btn').click(function (e) {
+                e.preventDefault();
+                var id = $(this).data('id');
+                $.get('@Url.Action("Edit", "City")' + '?id=' + id, function (data) {
+                    $('#editModalBody').html(data);
+                    $('#editModal').modal('show');
+                });
+            });
+        });
+
+        $(document).ready(function () {
+            $('.det-btn').click(function (e) {
+                e.preventDefault();
+                var id = $(this).data('id');
+                $.get('@Url.Action("Details", "City")' + '?id=' + id, function (data) {
+                    $('#DetailsModalBody').html(data);
+                    $('#DetailsModal').modal('show');
+                });
+            });
+        });
+
+        $(document).ready(function () {
+            $('.del-btn').click(function (e) {
+                e.preventDefault();
+                var id = $(this).data('id');
+                $.get('@Url.Action("Delete", "City")' + '?id=' + id, function (data) {
+                    $('#DeleteModalBody').html(data);
+                    $('#DeleteModal').modal('show');
+                });
+            });
+        });
+    </script>
+}

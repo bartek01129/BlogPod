@@ -1,0 +1,615 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\views\\city\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\views\\city\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\views\\city\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\views\\city\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\views\\city\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\views\\city\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\views\\city\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\views\\city\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\views\\city\\country.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\views\\city\\country.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\views\\city\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\views\\city\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\entites\\cityentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\entites\\cityentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\entites\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\entites\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\views\\shared\\_mainpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\views\\shared\\_mainpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\views\\user\\indexuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\views\\user\\indexuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\views\\user\\polska.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\views\\user\\polska.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\blogpod.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\blogpod.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\blogpod.mvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\blogpod.mvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\migrations\\20240409180430_dodajkraj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\migrations\\20240409180430_dodajkraj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|c:\\users\\mbarl\\onedrive\\pulpit\\blogpod\\blogpod\\blogpod.mvc\\migrations\\20240409181831_dodajkraj2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A7E0BD-E6F8-4AD6-89BB-55A643AFF975}|BlogPod.MVC\\BlogPod.MVC.csproj|solutionrelative:blogpod.mvc\\migrations\\20240409181831_dodajkraj2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "bootstrap.css.map",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "RelativeToolTip": "BlogPod.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAC2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-20T17:35:37.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bootstrap-utilities.css",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "RelativeToolTip": "BlogPod.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-20T17:35:22.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "bootstrap-reboot.css",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeToolTip": "BlogPod.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-20T17:35:19.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\City\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\Views\\City\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\City\\Edit.cshtml",
+              "RelativeToolTip": "BlogPod.MVC\\Views\\City\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T17:12:15.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\City\\Create.cshtml",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\Views\\City\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\City\\Create.cshtml",
+              "RelativeToolTip": "BlogPod.MVC\\Views\\City\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T17:00:14.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BlogPod.MVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:08:13.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IndexUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\User\\IndexUser.cshtml",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\Views\\User\\IndexUser.cshtml",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\User\\IndexUser.cshtml",
+              "RelativeToolTip": "BlogPod.MVC\\Views\\User\\IndexUser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwBMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T16:57:34.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\City\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\Views\\City\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\City\\Index.cshtml",
+              "RelativeToolTip": "BlogPod.MVC\\Views\\City\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T16:42:16.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Entites\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\Entites\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Entites\\ApplicationDBContext.cs",
+              "RelativeToolTip": "BlogPod.MVC\\Entites\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:12:00.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CityEntity.cs",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Entites\\CityEntity.cs",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\Entites\\CityEntity.cs",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Entites\\CityEntity.cs",
+              "RelativeToolTip": "BlogPod.MVC\\Entites\\CityEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:09:08.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BlogPod.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T16:06:16.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\City\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\Views\\City\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\City\\Delete.cshtml",
+              "RelativeToolTip": "BlogPod.MVC\\Views\\City\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T17:12:17.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "BlogPod.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAAG4VAAAAAAAAAAArwK8VAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-09T20:00:03.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Country.cshtml",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\City\\Country.cshtml",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\Views\\City\\Country.cshtml",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\City\\Country.cshtml",
+              "RelativeToolTip": "BlogPod.MVC\\Views\\City\\Country.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAD0AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T18:35:00.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+              "RelativeToolTip": "BlogPod.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-20T17:40:23.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\City\\Details.cshtml",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\Views\\City\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\City\\Details.cshtml",
+              "RelativeToolTip": "BlogPod.MVC\\Views\\City\\Details.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T17:12:16.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bootstrap.rtl.css",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+              "RelativeToolTip": "BlogPod.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-20T17:40:22.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\Controllers\\CityController.cs",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Controllers\\CityController.cs",
+              "RelativeToolTip": "BlogPod.MVC\\Controllers\\CityController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:41:47.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_MainPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\Shared\\_MainPage.cshtml",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\Views\\Shared\\_MainPage.cshtml",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\Shared\\_MainPage.cshtml",
+              "RelativeToolTip": "BlogPod.MVC\\Views\\Shared\\_MainPage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T16:47:56.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Program.cs",
+              "RelativeToolTip": "BlogPod.MVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:04:13.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BlogPod.MVC\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-15T16:14:49.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BlogPod.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T16:24:49.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BlogPod.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T16:57:19.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_LayoutUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\Shared\\_LayoutUser.cshtml",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\Views\\Shared\\_LayoutUser.cshtml",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\Shared\\_LayoutUser.cshtml",
+              "RelativeToolTip": "BlogPod.MVC\\Views\\Shared\\_LayoutUser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T17:11:20.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BlogPod.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T16:48:24.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Polska.cshtml",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\User\\Polska.cshtml",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\Views\\User\\Polska.cshtml",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\User\\Polska.cshtml",
+              "RelativeToolTip": "BlogPod.MVC\\Views\\User\\Polska.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T18:49:40.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "BlogPod.MVC\\Views\\User\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T16:20:46.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BlogPod.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:05:17.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BlogPod.MVC\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T17:48:28.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BlogPod.MVC.csproj",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\BlogPod.MVC.csproj",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\BlogPod.MVC.csproj",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\BlogPod.MVC.csproj",
+              "RelativeToolTip": "BlogPod.MVC\\BlogPod.MVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-08T16:05:41.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BlogPod.MVC",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\BlogPod.MVC.csproj",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\BlogPod.MVC.csproj",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\BlogPod.MVC.csproj",
+              "RelativeToolTip": "BlogPod.MVC\\BlogPod.MVC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T16:14:42.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\User\\Details.cshtml",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\Views\\User\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\User\\Details.cshtml",
+              "RelativeToolTip": "BlogPod.MVC\\Views\\User\\Details.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T16:34:48.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "BlogPod.MVC\\Views\\User\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T16:20:17.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ApplicationDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "RelativeToolTip": "BlogPod.MVC\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:26:56.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240409180430_dodajkraj.cs",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Migrations\\20240409180430_dodajkraj.cs",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\Migrations\\20240409180430_dodajkraj.cs",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Migrations\\20240409180430_dodajkraj.cs",
+              "RelativeToolTip": "BlogPod.MVC\\Migrations\\20240409180430_dodajkraj.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:04:30.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240409181831_dodajkraj2.cs",
+              "DocumentMoniker": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Migrations\\20240409181831_dodajkraj2.cs",
+              "RelativeDocumentMoniker": "BlogPod.MVC\\Migrations\\20240409181831_dodajkraj2.cs",
+              "ToolTip": "C:\\Users\\mBarl\\OneDrive\\Pulpit\\BlogPod\\BlogPod\\BlogPod.MVC\\Migrations\\20240409181831_dodajkraj2.cs",
+              "RelativeToolTip": "BlogPod.MVC\\Migrations\\20240409181831_dodajkraj2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:18:31.24Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

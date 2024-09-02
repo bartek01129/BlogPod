@@ -1,0 +1,36 @@
+﻿@model IEnumerable<BlogPod.MVC.Entites.CityEntity>
+
+@{
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+
+}
+
+<style>
+    .tile {
+        display: inline-block;
+        width: 100%;
+        padding: 20px;
+        margin: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    }
+</style>
+
+
+
+
+   
+    @foreach (var item in Model) {
+    <div class="tiles-container">
+
+        <div class="tile">
+            <h3>@Html.DisplayFor(modelItem => item.Title)</h3>
+            <p>@Html.DisplayFor(modelItem => item.Text)</p>
+            <p>@Html.DisplayFor(modelItem => item.City), @Html.DisplayFor(modelItem => item.Country)</p>
+            <img src="@item.getImg()" alt="Image" style="max-width: 100%; height: auto;">
+            
+        </div>
+
+    </div>
+}

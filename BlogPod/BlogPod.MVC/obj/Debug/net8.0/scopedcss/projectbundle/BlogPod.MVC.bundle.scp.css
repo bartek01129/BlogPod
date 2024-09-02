@@ -1,0 +1,147 @@
+/* _content/BlogPod.MVC/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-3evui22tgx] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-3evui22tgx] {
+  color: #0077cc;
+}
+
+.btn-primary[b-3evui22tgx] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-3evui22tgx], .nav-pills .show > .nav-link[b-3evui22tgx] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-3evui22tgx] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-3evui22tgx] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-3evui22tgx] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-3evui22tgx] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-3evui22tgx] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/BlogPod.MVC/Views/Shared/_LayoutUser.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-awl99lyxrg] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-awl99lyxrg] {
+  color: #0077cc;
+}
+
+.btn-primary[b-awl99lyxrg] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-awl99lyxrg], .nav-pills .show > .nav-link[b-awl99lyxrg] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-awl99lyxrg] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-awl99lyxrg] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-awl99lyxrg] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-awl99lyxrg] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-awl99lyxrg] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/BlogPod.MVC/Views/Shared/_MainPage.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-acs3of7k3q] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-acs3of7k3q] {
+  color: #0077cc;
+}
+
+.btn-primary[b-acs3of7k3q] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-acs3of7k3q], .nav-pills .show > .nav-link[b-acs3of7k3q] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-acs3of7k3q] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-acs3of7k3q] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-acs3of7k3q] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-acs3of7k3q] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-acs3of7k3q] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
